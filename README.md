@@ -11,3 +11,7 @@ Gráfica: Intel hd 520
 
 
 Disco: SSD Sata kingston
+
+
+Nota: Tambièn ocupa Sensei DE para eliminar efectos: https://github.com/gregstein/SenseiDE
+
